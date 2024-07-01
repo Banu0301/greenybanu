@@ -39,22 +39,22 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `name`, `price`) VALUES
-(1, 'Guess 1875', 3000),
-(2, 'Guest Watch', 2500),
-(3, 'Panerai Watch', 3500),
-(4, 'Nonos Watch', 1800),
-(5, 'Levis', 1800),
-(6, 'louis philippe t-shirt', 2500),
-(7, 'Highlander t-shirt', 500),
-(8, 'GUCCI White t-Shirt', 2300),
-(9, 'Nike White Sneaker', 8000),
-(10, 'Nike White Shoes', 7500),
-(11, 'Nike Yellow Sneaker', 7000),
-(12, 'Nike Brown Sneaker', 6000),
-(13, 'Beats Headphone', 22500),
-(14, 'Zolo Headphone', 4500),
-(15, 'Sony Speaker', 10500),
-(16, 'Airpods', 15000);
+(1, 'indoor plant1', 300),
+(2, 'indoor plant2', 250),
+(3, 'indoor plant3', 350),
+(4, 'indoor plant4', 180),
+(5, 'outdoor plant1', 180),
+(6, 'outdoor plant2', 250),
+(7, 'outdoor plant3', 500),
+(8, 'outdoor plant4', 230),
+(9, 'medicinal plant1', 800),
+(10, 'Nmedicinal plant2', 750),
+(11, 'medicinal plant3', 700),
+(12, 'medicinal plant4', 600),
+(13, 'hanging plant1', 225),
+(14, 'hanging plant2', 450),
+(15, 'hanging plant3', 500),
+(16, 'hanging plant4', 150);
 
 -- --------------------------------------------------------
 
